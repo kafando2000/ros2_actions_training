@@ -1,0 +1,12 @@
+# goal
+float64 target_position
+float64 target_velocity
+# result
+---
+float64 final_position
+float64 final_velocity
+# feedback
+---
+float64 current_position
+float64 current_velocity
+# end of file

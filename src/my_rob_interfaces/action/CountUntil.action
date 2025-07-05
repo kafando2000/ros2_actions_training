@@ -1,0 +1,9 @@
+# Goal
+int64 target_num
+float64 period
+---
+# result
+int64 reached_num
+---
+# feedback
+string status
